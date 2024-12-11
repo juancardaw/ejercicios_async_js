@@ -1,0 +1,19 @@
+*{
+    padding: 50px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
